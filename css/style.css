@@ -268,6 +268,14 @@ h6 {
   border-radius: 50%;
 }
 
+.full-screen__body._center {
+  text-align: center;
+}
+
+.full-screen__body._center > .full-scree__text {
+  text-align: center;
+}
+
 .lock {
   overflow: hidden;
 }
